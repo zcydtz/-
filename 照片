@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Gallery</title>
+    <style>
+        .photo-gallery {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .photo-gallery img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="photo-gallery">
+        <img src="图库/1.jpg" alt="图库/照片1">
+        <img src="图库/2.jpg" alt="图库/照片2">
+        <img src="图库/3.jpg" alt="图库/照片3">
+        <img src="图库/4.jpg" alt="图库/照片4">
+        <img src="图库/5.jpg" alt="图库/照片5">
+        <img src="图库/6.jpg" alt="图库/照片6">
+        <img src="图库/7.jpg" alt="图库/照片7">
+        <img src="图库/8.jpg" alt="图库/照片8">
+        <img src="图库/9.jpg" alt="图库/照片9">
+        <img src="图库/10.jpg" alt="图库/照片10">
+        <img src="图库/11.jpg" alt="图库/照片11">
+        <img src="图库/12.jpg" alt="图库/照片12">
+        <img src="图库/13.jpg" alt="图库/照片13">
+        <img src="图库/14.jpg" alt="图库/照片14">
+        <img src="图库/15.jpg" alt="图库/照片15">
+        <img src="图库/16.jpg" alt="图库/照片16">
+        <img src="图库/17.jpg" alt="图库/照片17">
+        <img src="图库/22.jpg" alt="图库/照片18">
+        <img src="图库/19.jpg" alt="图库/照片19">
+        <img src="图库/20.jpg" alt="图库/照片20">
+        <img src="图库/21.jpg" alt="图库/照片21">
+    </div>
+</body>
+</html>
